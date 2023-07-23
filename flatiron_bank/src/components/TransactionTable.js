@@ -25,3 +25,9 @@ const TransactionTable = ({ transactions, onDeleteTransaction }) => {
           </tr>
         ))}
       </tbody>
+      </table>
+      );
+    };
+    
+    export default TransactionTable;
+    
