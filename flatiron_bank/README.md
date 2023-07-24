@@ -55,7 +55,7 @@ Enjoy managing your bank transactions with the Bank Transactions App!
 
 
 # Support and Contacts
-## You can reach me on nonniecherono@gmail.com
+## You can reach me on bettayu19@gmail.com
 
 
 # License
